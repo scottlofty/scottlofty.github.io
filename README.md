@@ -1,6 +1,6 @@
 # scottlofty.github.io
 
-Developmetn Portfolio for Scott Loftesness
+Development Portfolio for Scott Loftesness
 
 https://scottlofty.github.io/
 
